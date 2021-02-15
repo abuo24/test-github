@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
+    <h2>men ertaga uqishga boraman</h2>
     <HelloWorld msg="ziynat"/>
   </div>
 </template>
